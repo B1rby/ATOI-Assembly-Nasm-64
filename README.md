@@ -8,7 +8,7 @@
 mov rdx, 0
 ``` 
 #### this was made for put the value of 0 into rdx and be sure that the division is made correctly. If there is another value than 0 into rdx the rdx will concatenate with the rax register and the result will be falsified. 
-#### Command line arguments : first we pop rcx for counting the number of arguments the user have put.Then we pop the program name, for example (./program) and then we substract 1 to the counter because the counter takes the program name with the arguments. 
+#### Command line arguments : first we pop rcx for counting the number of arguments the user have put. Then we pop the program name, for example (./program) and then we substract 1 to the counter because the counter takes the program name with the arguments. 
 #### I hope u will enjoy 
 #### for compiling the program
 ```bash
