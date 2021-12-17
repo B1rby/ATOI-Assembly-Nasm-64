@@ -1,5 +1,5 @@
-# ATOI-Assembly-Nasm-64
-![image](https://user-images.githubusercontent.com/87600765/141811378-69378ebe-16de-4f70-90f6-9b27d2206ce2.png)
+![image](https://user-images.githubusercontent.com/87600765/146588308-70f7204a-f66b-41f9-9dc5-c7fcef63b35f.png)
+#
 ### Here is an atoi function I made. It uses the command line arguments and will add all the arguments you have placed.
 #### What is an atoi ? Atoi means ascii to integer. This function is used for convert a string into an integer. This code will learn you how to make an atoi but also how to print an integer and how the command line argument works. Here is some ressources for understand how an atoi is working and how an integer is printing. 
 - https://en.wikipedia.org/wiki/Positional_notation
