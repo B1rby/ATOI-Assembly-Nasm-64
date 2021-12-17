@@ -2,7 +2,7 @@
 #
 ### Here is an atoi function I made. It uses the command line arguments and will add all the arguments you have placed.
 #### What is an atoi ? Atoi means ascii to integer. This function is used for convert a string into an integer. This code will learn you how to make an atoi but also how to print an integer and how the command line argument works. Here is some ressources for understand how an atoi is working and how an integer is printing. 
-- https://en.wikipedia.org/wiki/Positional_notation
+- [Positional Notation](https://en.wikipedia.org/wiki/Positional_notation)
 #### In the code. You can see that I used the BL register. The BL register is an 8-bit register. It is used to avoid wasting space and to convert the characters into bytes. You can also notice that in the part of the code I have put
 ```s
 mov rdx, 0
